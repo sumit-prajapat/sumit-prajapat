@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sumit-prajapat
 - 👀 I’m interested in web development and cyber security
 - 🌱 I’m currently learning HTML, CSS , JS and networking
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... cyber security
 - 📫 How to reach me mail me: mk1052078@gmail.com
 
 <!---
