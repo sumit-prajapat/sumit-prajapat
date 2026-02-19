@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @sumit-prajapat
-- 👀 I’m interested in web development and cyber security
-- 🌱 I’m currently learning HTML, CSS , JS and networking
-- 💞️ I’m looking to collaborate on ... cyber security
-- 📫 How to reach me mail me: mk1052078@gmail.com
+# Hi, I'm Sumit 👋
 
-<!---
-sumit-prajapat/sumit-prajapat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science undergraduate focused on **Cybersecurity and AI/ML**
+🔐 Interested in Web Security, Secure Systems, and ML-assisted Security Analysis
+🧪 Hands-on experience with OWASP Top 10, WAF, and security testing
+💻 Strong in Python, JavaScript, C/C++, and React
+
+## 🔐 Cybersecurity Focus
+- Web Application Security (OWASP Top 10)
+- Vulnerability Assessment & Penetration Testing
+- Web Application Firewall (ModSecurity, OWASP CRS)
+- Network & Secure Systems fundamentals
+
+## 🤖 AI/ML (Learning & Research Direction)
+- Machine Learning fundamentals
+- Security log analysis & anomaly detection (learning)
+- Python for data analysis and ML
+
+## 🛠 Tech Stack
+**Languages:** Python, C/C++, JavaScript, SQL  
+**Security Tools:** OWASP ZAP, Kali Linux, Nmap, Wireshark  
+**Web:** React, HTML, CSS  
+
+## 📌 Featured Projects
+- 🔐 Web Application Firewall (WAF)
+- 🤖 ML-based Intrusion Detection (in progress)
+- 🌐 Secure Web Applications
+
+📫 Connect with me on LinkedIn
