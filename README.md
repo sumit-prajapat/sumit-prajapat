@@ -1,4 +1,4 @@
-# Hi, I'm Sumit 👋
+# Hi, I'm Sumit Kumar 👋
 
 🎓 Computer Science undergraduate focused on **Cybersecurity and AI/ML**
 🔐 Interested in Web Security, Secure Systems, and ML-assisted Security Analysis
