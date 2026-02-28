@@ -1,16 +1,19 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sumit%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20%26%20AI/ML%20Engineer&descAlignY=51&descAlign=50"/>
-
-<!-- Typing Animation -->
+<!-- Typing Animation - Reliable service -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+%26+AI%2FML+Engineer;Ethical+Hacker+%7C+Penetration+Tester;RAG+Systems+%7C+LLM+Applications;Building+Secure+%26+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Sumit+Kumar;Cybersecurity+%26+AI%2FML+Engineer;Ethical+Hacker+%7C+Pentester;Building+Secure+%26+Intelligent+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Followers -->
+<!-- Reliable shields.io badges only -->
+<img src="https://img.shields.io/badge/Role-Cybersecurity%20%26%20AI%2FML%20Engineer-00FFAA?style=for-the-badge&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/University-DCRUST%20Murthal-3B82F6?style=for-the-badge&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/GPA-7.8%2F10-00FFAA?style=for-the-badge&labelColor=0B0F19"/>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=sumit-prajapat&style=for-the-badge&color=00FFAA&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/sumit-prajapat?style=for-the-badge&color=3B82F6&labelColor=0B0F19&label=FOLLOWERS"/>
 
@@ -61,9 +64,9 @@ class SumitKumar:
 ### 🔒 Security Tools
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214A6D?style=for-the-badge&logo=nmap&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214A6D?style=for-the-badge&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
 
 ### 🚀 Frameworks & Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -74,9 +77,9 @@ class SumitKumar:
 
 ### 🤖 AI / ML Stack
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_LLM-F55036?style=for-the-badge&logoColor=white)
-![LangChain](https://img.shields.io/badge/RAG_Systems-00FFAA?style=for-the-badge&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG_Systems-00FFAA?style=for-the-badge&logoColor=black)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -93,24 +96,24 @@ class SumitKumar:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔐 Cybersecurity Intern — C-DAC Noida (MeitY)
-**Ethical Hacking Intern** | `May 2024 – Aug 2024`
+### 🔐 Cybersecurity Intern — C-DAC Noida
+**Ethical Hacking Intern** `May 2024 – Aug 2024`
 
-- 🔍 Conducted **web application vulnerability assessments** aligned with OWASP Top 10 using OWASP ZAP
-- 🛡️ Developed a **Web Application Firewall (WAF)** that reduced SQL Injection & XSS attacks by **65%** in controlled testing
-- ⚙️ Implemented rule-based **request filtering & validation** to detect and block malicious HTTP traffic
+- Conducted **web application vulnerability assessments** aligned with OWASP Top 10 using OWASP ZAP
+- Developed a **Web Application Firewall (WAF)** that reduced SQL Injection & XSS attacks by **65%**
+- Implemented rule-based **request filtering & validation** to detect and block malicious HTTP traffic
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI/ML Intern — Infosys Springboard 6.0
-**Virtual Intern** | `Jan 2026 – Feb 2026`
+**Virtual Intern** `Jan 2026 – Feb 2026`
 
-- 🧠 Designed and developed a **multi-model AI agent** for automated healthcare diagnostics
-- 🚀 Executed the full project **independently**, demonstrating strong problem-solving and rapid learning
-- 🔬 Applied modern **LLM-based pipelines** for real-world health data processing
+- Designed and developed a **multi-model AI agent** for automated healthcare diagnostics
+- Executed the full project **independently**, demonstrating strong problem-solving skills
+- Applied modern **LLM-based pipelines** for real-world health data processing
 
 </td>
 </tr>
@@ -122,17 +125,17 @@ class SumitKumar:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔐 Web Application Firewall
+
 ![Security](https://img.shields.io/badge/Domain-Security-red?style=flat-square)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache)
 ![ModSecurity](https://img.shields.io/badge/ModSecurity-CC0000?style=flat-square)
 ![OWASP](https://img.shields.io/badge/OWASP_CRS-000000?style=flat-square)
 
-Implemented a **ModSecurity-based WAF** using OWASP Core Rule Set (CRS) on an Apache server for real-world attack mitigation.
+Implemented a **ModSecurity-based WAF** using OWASP CRS on Apache for real-world attack mitigation.
 
-**Key Highlights:**
 - ✅ Full SQL Injection & XSS blocking
 - ✅ Security log analysis & threat detection
 - ✅ OWASP CRS rule customization
@@ -140,17 +143,17 @@ Implemented a **ModSecurity-based WAF** using OWASP Core Rule Set (CRS) on an Ap
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/sumit-prajapat)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 RAG-Based Document QA System
+
 ![AI](https://img.shields.io/badge/Domain-AI%2FML-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-End-to-end **Retrieval Augmented Generation** pipeline for PDF document querying using vector search and LLM-based answer generation.
+End-to-end **RAG pipeline** for PDF querying using vector search and LLM-based answer generation.
 
-**Key Highlights:**
 - ✅ HuggingFace embeddings + FAISS semantic search
 - ✅ Groq LLM integrated with FastAPI backend
 - ✅ React + Vite interactive frontend
@@ -165,19 +168,15 @@ End-to-end **Retrieval Augmented Generation** pipeline for PDF document querying
 
 ## 🏆 Leadership & Achievements
 
-<div align="center">
+| 🏅 | Role | Organization | Period |
+|---|------|-------------|--------|
+| 🛡️ | **Cybersecurity Lead** | GDG DCRUST | Aug 2025 – Present |
+| ⭐ | **Battalion Senior Under Officer** | National Cadet Corps (NCC) | Oct 2023 – Feb 2026 |
+| 🥇 | **Best Cadet — Ambala Group** | NCC, Ambala Group | 2024 |
 
-| 🛡️ Role | 🏢 Organization | 📅 Period |
-|---------|----------------|----------|
-| **Cybersecurity Lead** | GDG DCRUST | Aug 2025 – Present |
-| **Battalion Senior Under Officer** | National Cadet Corps (NCC) | Oct 2023 – Feb 2026 |
-| **🥇 Best Cadet — Ambala Group 2024** | NCC, Ambala Group | 2024 |
-
-</div>
-
-- 🔐 **GDG Cybersecurity Lead** — Led cybersecurity workshops, talks, and hands-on sessions at DCRUST. Drove security awareness and peer learning across the student community.
-- 🎖️ **Battalion SUO (NCC)** — Represented the battalion and directorate at national-level camps including IMA. Led cadets with discipline and command.
-- 🏅 **Best Cadet 2024** — Recognized by the Commanding Officer, Ambala Group for exceptional leadership and discipline within the NCC battalion.
+- **GDG Cybersecurity Lead** — Led cybersecurity workshops, talks, and hands-on sessions. Drove security awareness and peer learning at DCRUST.
+- **Battalion SUO (NCC)** — Represented the battalion at national-level camps including IMA. Led with discipline and command presence.
+- **Best Cadet 2024** — Recognized by the Commanding Officer, Ambala Group for exceptional leadership and discipline.
 
 ---
 
@@ -185,14 +184,14 @@ End-to-end **Retrieval Augmented Generation** pipeline for PDF document querying
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumit-prajapat&show_icons=true&theme=dark&bg_color=0B0F19&title_color=00FFAA&icon_color=3B82F6&text_color=E5E7EB&border_color=00FFAA30&hide_border=false&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumit-prajapat&show_icons=true&theme=dark&bg_color=0B0F19&title_color=00FFAA&icon_color=3B82F6&text_color=E5E7EB&border_color=00FFAA&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-prajapat&layout=compact&theme=dark&bg_color=0B0F19&title_color=00FFAA&text_color=E5E7EB&border_color=00FFAA30&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-prajapat&layout=compact&theme=dark&bg_color=0B0F19&title_color=00FFAA&text_color=E5E7EB&border_color=00FFAA"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sumit-prajapat&theme=dark&background=0B0F19&ring=00FFAA&fire=3B82F6&currStreakLabel=00FFAA&sideLabels=E5E7EB&dates=9CA3AF&border=00FFAA30" />
+<img src="https://streak-stats.demolab.com?user=sumit-prajapat&theme=dark&background=0B0F19&ring=00FFAA&fire=3B82F6&currStreakLabel=00FFAA&sideLabels=E5E7EB&dates=9CA3AF&border=00FFAA"/>
 </div>
 
 ---
@@ -212,12 +211,10 @@ End-to-end **Retrieval Augmented Generation** pipeline for PDF document querying
 
 <div align="center">
 
-### 💡 Currently Open To
-`Cybersecurity Internships` • `AI/ML Research Roles` • `Security Research Collaborations`
+### 💡 Open To
+`Cybersecurity Internships` &nbsp;•&nbsp; `AI/ML Research Roles` &nbsp;•&nbsp; `Security Research Collaborations`
 
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<br/>
 
 *"Security is not a product, but a process."* — Bruce Schneier
 
