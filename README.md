@@ -203,7 +203,7 @@ End-to-end **RAG pipeline** for PDF querying using vector search and LLM-based a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sumit--kumar1311-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-kumar1311)
 [![Email](https://img.shields.io/badge/Email-mk1052078@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mk1052078@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-sumit--prajapat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumit-prajapat)
-[![Phone](https://img.shields.io/badge/Phone-%2B91_8222856546-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918222856546)
+[![Phone](https://img.shields.io/badge/Phone-%2B91_8222856541-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918222856546)
 
 </div>
 
